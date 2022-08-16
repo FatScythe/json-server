@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to JSON SERVER",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi ex eveniet dolores, facere autem blanditiis id vitae sequi neque reprehenderit alias impedit commodi sed, labore aliquid recusandae veritatis, quidem omnis.",
+      "likes": 51
+    },
+    {
+      "id": 2,
+      "title": "How to not suck in JavaScript",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi ex eveniet dolores, facere autem blanditiis id vitae sequi neque reprehenderit alias impedit commodi sed, labore aliquid recusandae veritatis, quidem omnis.",
+      "likes": 65
+    },
+    {
+      "id": 3,
+      "title": "React VS Vue, Library vs Framework?!",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi ex eveniet dolores, facere autem blanditiis id vitae sequi neque reprehenderit alias impedit commodi sed, labore aliquid recusandae veritatis, quidem omnis.",
+      "likes": 70
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer chicken to turkey",
+      "answerA": "Chicken",
+      "answerB": "Turkey"
+    }
+  ]
+}
